@@ -1,0 +1,11 @@
+numpy
+pillow
+matplotlib
+tifffile
+imagecodecs
+fastapi
+uvicorn
+python-multipart
+streamlit
+requests
+pandas
